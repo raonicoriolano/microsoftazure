@@ -31,4 +31,12 @@ Na aba "Gerenciamento", você pode configurar o Microsoft Defender for Cloud e o
 <br>
 Na aba "Monitoramento", configure os sistema de alertas a execução de diagnóstico de inicialização.<br>
 <br>
-Na aba "Avançando", você pode configurar as extensões da sua máquina virtual, 
+Na aba "Avançando", você pode configurar as extensões, os aplicativos, o host da sua máquina virtual, entre outros. <br>
+<br>
+Por fim, na aba "Marcas", você pode configurar as marcas, que são pares de nome/valor que permitem classificar recursos e exibir faturamento consolidado aplicando a mesma marca a vários recursos e grupos de recursos.<br>
+<br>
+Pronto, agora é só clicar em "Revisar + criar", que sua máquina virtual do Microsoft Azure já está pronta para ser usada!<br>
+<br>
+Espero que, com essas dicas, você pode desfrutar de ter uma máquina virtual de alta capacidade em qualquer lugar em que você esteja!<br>
+<br>
+Bom trabalho!
